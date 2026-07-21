@@ -74,12 +74,6 @@ Analyse dédiée pour les données `location == "MA"` avec graphe + moyenne des 
 - Notebook prêt à remettre
 
 ---
-
-## 📬 Contact
-
-Projet réalisé dans le cadre du cours Big Data.  
-
-
 ---
 
 ## ✅ Conclusion
